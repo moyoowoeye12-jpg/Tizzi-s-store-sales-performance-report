@@ -1,5 +1,9 @@
 
+
 <img width="1891" height="862" alt="Tableau Task 50_Screenshot" src="https://github.com/user-attachments/assets/0a87002b-564c-4e51-8639-3432ba32a25f" />
+
+
+
 
 
 Technical Report: Sales Performance Analysis for Tizzie's Store (2020)
